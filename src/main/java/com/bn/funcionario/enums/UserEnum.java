@@ -1,4 +1,7 @@
 package com.bn.funcionario.enums;
 
-public class UserEnum {
+public enum UserEnum {
+
+    ADMIN, USER
+
 }
